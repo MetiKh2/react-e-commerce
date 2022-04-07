@@ -1,1 +1,1 @@
-[Show live](https://metishop.netlify.app/cart)
+[Show live](https://metishop.netlify.app/)
